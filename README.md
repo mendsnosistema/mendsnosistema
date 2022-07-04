@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como motorista de APP
 - 🌱 Estudo desenvolvimento de sistema
 - 📫 Morro em Fortaleza-CE ...
-- ⚡ Como comecei meu curso de DI, um passageiro em indicou uma faculdade e eu fui.
+- ⚡ Como comecei meu curso de TI, um passageiro em indicou uma faculdade e eu fui.
 
 ##
 
